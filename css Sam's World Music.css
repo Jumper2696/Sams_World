@@ -1,0 +1,17 @@
+body {
+  background: url("http://static.squarespace.com/static/52aaa68ee4b09af7f3c7a458/t/52abd830e4b0324b1f62a9c5/1386993712637/Rustic-Wood-Background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+h1 {
+  color: #FFF;
+  font-weight: 800;
+  font-family: fantacy;
+}
+.well{
+  opacity: 0.8;
+  background-color: rgba(0, 0, 0, 0.72);
+  text-align: left;
+  border-color: black;
+}
